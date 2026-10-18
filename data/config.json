@@ -1,0 +1,58 @@
+{
+  "site": {
+    "name": "Velvet Social",
+    "tagline": "Your Social Media. Our Strategy. Your Growth.",
+    "description": "We help brands stand out, create engaging content, build loyal communities, and turn social media into a powerful business growth engine.",
+    "email": "hello@example.com",
+    "phone": "+91-9876543210",
+    "whatsapp": "+919876543210",
+    "address": "Mumbai, India",
+    "currency": "INR"
+  },
+  "socials": {
+    "instagram": "https://instagram.com/yourhandle",
+    "facebook": "https://facebook.com/yourhandle",
+    "linkedin": "https://linkedin.com/company/yourcompany",
+    "youtube": "https://youtube.com/yourchannel",
+    "whatsapp": "https://wa.me/919876543210"
+  },
+  "pricing": {
+    "starter": {
+      "price": 15000,
+      "currency": "INR",
+      "items": ["Social media content calendar","8 posts per month","Basic captions & hashtags","Monthly performance summary"]
+    },
+    "growth": {
+      "price": 35000,
+      "currency": "INR",
+      "items": ["12–16 posts per month","4 Reels per month","Content planning & captions","Community management","Monthly analytics report"]
+    },
+    "premium": {
+      "price": 75000,
+      "currency": "INR",
+      "items": ["20+ content pieces per month","8 Reels per month","Advanced content strategy","Influencer outreach support","Priority communication","Detailed performance reports"]
+    },
+    "note": "Advertising budgets and influencer fees are separate unless otherwise specified."
+  },
+  "services": [
+    { "id": "account-management", "title": "Social Media Account Management", "desc": "End-to-end management of social accounts, posting schedules and optimization.", "icon": "users" },
+    { "id": "ig-fb", "title": "Instagram & Facebook Management", "desc": "Platform specific strategies for maximum engagement and growth.", "icon": "instagram" },
+    { "id": "strategy", "title": "Content Strategy & Planning", "desc": "Research-driven content calendars tailored to your audience.", "icon": "layout" },
+    { "id": "post-design", "title": "Social Media Post Design", "desc": "High-quality static post designs with brand consistency.", "icon": "image" },
+    { "id": "reels", "title": "Reels & Short-Form Video Editing", "desc": "Vertical-first short form videos optimized for reach.", "icon": "video" },
+    { "id": "creation", "title": "Content Creation", "desc": "Photoshoots, mockups, captions and templates.", "icon": "camera" },
+    { "id": "influencer-marketing", "title": "Influencer Marketing & Brand Collaborations", "desc": "Strategy and campaign execution with creators.", "icon": "megaphone" },
+    { "id": "outreach", "title": "Influencer Outreach & Negotiations", "desc": "Finding the right creators and managing agreements.", "icon": "mail" },
+    { "id": "community", "title": "Community Management", "desc": "Careful moderation and proactive engagement.", "icon": "message-circle" },
+    { "id": "ads", "title": "Social Media Advertising", "desc": "Ad strategy, creatives and optimization.", "icon": "dollar-sign" },
+    { "id": "campaigns", "title": "Campaign Management", "desc": "Cross-platform campaign planning & delivery.", "icon": "target" },
+    { "id": "analytics", "title": "Social Media Analytics & Reporting", "desc": "Actionable reports and growth insights.", "icon": "bar-chart" },
+    { "id": "personal-brand", "title": "Personal Branding for Creators", "desc": "Crafting unique creator identities and plans.", "icon": "user" },
+    { "id": "brand-identity", "title": "Brand Identity & Creative Design", "desc": "Logos, templates and visual identity systems.", "icon": "hexagon" }
+  ],
+  "portfolio": [
+    { "id": "demo1", "title": "Restaurant Reels Campaign", "category": "Restaurant", "image": "/images/demo-food-1.jpg", "summary": "Increased engagement by +42% (demo data)", "details": "Campaign focused on short-form videos & menu highlights. Demo project." },
+    { "id": "demo2", "title": "Fashion Launch Series", "category": "Fashion", "image": "/images/demo-fashion-1.jpg", "summary": "Brand awareness boost (demo)", "details": "Brand identity + Reels and influencer seeding." },
+    { "id": "demo3", "title": "Creator Personal Brand", "category": "Creator", "image": "/images/demo-creator-1.jpg", "summary": "Personal branding package (demo)", "details": "Profile overhaul, content pillars and scheduling." }
+  ]
+}
